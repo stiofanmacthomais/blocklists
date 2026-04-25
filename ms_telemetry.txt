@@ -1,5 +1,4 @@
-MS_telemetry
-# Licence: GPL3
+# Licence: Apache 2.0
 # Contact: stiofan.macthomais@gmail.com
 
 vortex.data.microsoft.com
