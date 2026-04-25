@@ -1,4 +1,4 @@
-# Licence: GPL3
+# Licence: Apache 2.0
 # Contact: stiofan.macthomais@gmail.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
